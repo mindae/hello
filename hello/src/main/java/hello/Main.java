@@ -17,5 +17,6 @@ public class Main {
 		System.out.println("test 2");
 		System.out.println("new branch test1");
 		System.out.println("branch2");
+		System.out.println("branch3");
 	}
 }
